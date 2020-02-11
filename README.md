@@ -61,3 +61,11 @@ Topics:
 ![Image of a Heap in Array form](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Heap-as-array.svg/603px-Heap-as-array.svg.png)
 
 
+### Sorting
+
+<img src="./Visual/1.png" >
+<img src="./Visual/2.png" >
+<img src="./Visual/3.png" >
+<img src="./Visual/4.png" >
+<img src="./Visual/5.png" >
+<img src="./Visual/6.png" >
